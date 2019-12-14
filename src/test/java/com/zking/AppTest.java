@@ -13,6 +13,8 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
+    int a=10;
+    int b=5;
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
